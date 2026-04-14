@@ -1,10 +1,8 @@
 # K-VQG: A Study on Knowledge-based Visual Question Generation
 
-Welcome to the GitHub repository for my undergraduate honours thesis titled "K-VQG: A Study on Knowledge-based Visual Question Generation".
-
 ## Overview
 
-This repository serves as the home for the research conducted as part of an undergraduate honours thesis. The thesis explores the field of Visual Question Generation (VQG), focusing specifically on knowledge-based approaches.
+This repository contains the end-to-end implementation and system architecture for K-VQG, a research-driven framework designed to automate the generation of high-context questions from visual data. By integrating Large Multimodal Models (LMMs) with Sequence-to-Sequence (Seq2Seq) architectures, the project demonstrates a scalable approach to interpreting visual content through structured AI orchestration.
 
 ## Thesis Abstract
 
