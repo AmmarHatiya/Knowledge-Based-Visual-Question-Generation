@@ -1,5 +1,5 @@
 # K-VQG: A Study on Knowledge-based Visual Question Generation
-
+![](./Public/assets/hero.png)
 ## Overview
 
 This repository contains the end-to-end implementation and system architecture for K-VQG, a research-driven framework designed to automate the generation of high-context questions from visual data. By integrating Large Multimodal Models (LMMs) with Sequence-to-Sequence (Seq2Seq) architectures, the project demonstrates a scalable approach to interpreting visual content through structured AI orchestration.
